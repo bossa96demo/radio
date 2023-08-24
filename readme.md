@@ -1,6 +1,13 @@
 # radio
+This repo consist of:
+    1. List of links to different radio stations
+    2. List of genres these stations play
+    3. Script that plays radio
+The script uses mpv to play music, you may need to install it
+To change station, press Ctrl+C
+To quit program, press Ctrl+C continuously
 
-radio list:
+Radio list:
 ```
 dubstep - https://www.partyviberadio.com:8067
 jazz - https://www.partyviberadio.com:8064
