@@ -5,7 +5,8 @@ This repo consist of:
   - Script that plays radio
 
 The script uses mpv to play music, you may need to install it
-To change station, press Ctrl+C
+
+To change station, press Ctrl+C<br>
 To quit program, press Ctrl+C continuously
 
 Radio list:
